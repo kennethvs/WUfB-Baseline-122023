@@ -1,1 +1,2 @@
-# WUfB-Baseline-122023
+# Windows Update for Business baseline policies
+
