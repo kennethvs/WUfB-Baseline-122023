@@ -1,6 +1,6 @@
 # Windows Update for Business baseline policies
 
-Based on article written here: 
+Based on article written here: https://www.vansurksum.com/2023/12/05/configuring-even-better-windows-update-for-business-settings-for-your-microsoft-intune-managed-modern-workplace/
 
 Contains:
 * Update policies
